@@ -1,0 +1,12 @@
+//------------------------------------------------------------------
+// Addin-Application header control file, created with the CASIO SDK
+//------------------------------------------------------------------
+[OUTPUT]     : "EZ2CALC.G1A"
+[BINDATA]    : "FXADDINror.bin"
+[DISPNAME]   : "ez2calc"
+[APPNAME]    : "@EZ2CALC"
+[VERSION]    : "01.00.0006"
+[APL_ICON]   : "MainIcon.bmp"
+[MODULE_NUM] : 0
+[MOD1_TITLE] : "ez2calc"
+[MOD1_ICON]  : "eActivityIcon.bmp"
